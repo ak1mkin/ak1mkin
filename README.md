@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Ilya
 
-<!--
-**ak1mkin/ak1mkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+IT student and aspiring frontend developer. I enjoy building simple,
+useful products and automating everything around me.
 
-Here are some ideas to get you started:
+Focus: JavaScript · React · Python
+Interests: frontend, automotive software, automation
+Status: open to opportunities
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About
+
+- Currently studying at university (BSc, Information Technology, 4th year)
+- Learning frontend development: JavaScript, React, HTML, CSS
+- Adding Python to the stack for automation and data tasks
+- Interested in software for cars: diagnostics, vehicle data, small utilities
+- Comfortable using modern AI-assisted development workflows to ship faster
